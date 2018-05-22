@@ -5,4 +5,5 @@ div {
     background: orange;
     color: #fff;
     cursor: pointer;
+    font-size: 12px; 
 }
